@@ -6,9 +6,9 @@
    
    inicilização com o prompt de comando 
    
-   cd na pasta dos arquivos
+   cd + diretorio do arquivo 
    
-   npm run server para execultar um serve com a pagina rodando
+   para execultar um serve com a pagina rodando: npm run serve 
 
 link perfil burh: https://burh.com.br/gabrielpadilha4
    -Gabriel Padilha 11/01/2021    
